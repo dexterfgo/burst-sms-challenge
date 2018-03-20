@@ -1,0 +1,88 @@
+.sms-menu {
+    width: 272.5px;
+    height: 294px;
+    border-radius: 2.5px;
+    background-color: #f4f4f4;
+    padding-top: 25.3px;
+    padding-bottom: 25px;
+    margin: 0 auto;
+    
+  }
+
+.form-entries {
+  margin-left: 41px;
+  margin-right: 43px;
+}
+
+  .instruction {
+    width: 85px;
+    height: 12px;
+    font-family: OpenSans;
+    font-size: 9px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4a4a4a;
+  }
+
+  .input-label {
+    width: 27px;
+    height: 9px;
+    font-family: OpenSans;
+    font-size: 6.5px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #9b9b9b;
+  }
+
+  .single-line-input {
+    width: 188.5px;
+    height: 10px;
+    background-color: #eae8e8;
+    font-family: OpenSans;
+    font-size: 6.5px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4a4a4a;
+  }
+
+  .multi-line-input {
+    width: 196px;
+    height: 110px;
+    background-color: #ffffff;
+    font-family: OpenSans;
+    font-size: 6.5px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.62;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4a4a4a;
+  }
+
+  .action-button {
+    width: 69.5px;
+    height: 14px;
+    border-radius: 2.5px;
+    background-color: #00aec5;
+    font-family: OpenSans;
+    font-size: 7.5px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+  }
